@@ -1,5 +1,3 @@
-
-
 # ビルドステージ
 FROM node:22-slim AS builder
 WORKDIR /app
